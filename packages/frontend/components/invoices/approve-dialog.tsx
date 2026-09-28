@@ -33,7 +33,7 @@ export function ApproveDialog({
             Approve this invoice?
           </AlertDialogTitle>
           <AlertDialogDescription className="text-zinc-400">
-            This action cannot be undone. The invoice will be marked as approved.
+            This action cannot be undone. The invoice will be marked as approved!
           </AlertDialogDescription>
         </AlertDialogHeader>
         <AlertDialogFooter>
